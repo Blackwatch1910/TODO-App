@@ -7,6 +7,7 @@ input {
 	height: 9vh;
 	font-size: 24px;
 	border-radius:10px;
+	margin-top:10vh;
 }
 
 header > section {
@@ -21,7 +22,7 @@ header > section {
 
 button {
 	font-size: 24px;
-	margin: 100px auto 24px auto;
+	margin: 50px auto 24px auto;
 	padding: 12px 24px;
 }
 
